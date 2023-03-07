@@ -1,2 +1,2 @@
 #!/bin/bash
-ALX
+ALX School is so cool!
